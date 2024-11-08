@@ -1,0 +1,3 @@
+- angforintersec() - angular forward intersection
+- coords2azimuth() - azimuth from coordinates
+- azimuth2point() - point b from point a, azimuth and distance between a and b
